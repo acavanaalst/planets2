@@ -1,2 +1,5 @@
-This is a planet. It was discovered some time ago. It is a red planet, very far away.   It contains two moons. 
+This is a planet.
+It was discovered some time ago.
+It is a red planet, very far away.  
+It contains two moons. 
 It is a round planet. 
